@@ -3,6 +3,7 @@ The front-end project of the music system is used to realize the interaction and
 
 ## Technical architecture
 **Framework**: Vue2
+
 **UI library**: Element-UI
 
 ## Run command
